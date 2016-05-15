@@ -1,0 +1,12 @@
+.sponsor-logos img {
+	height: 80%;
+}
+
+.sponsor-logos.row {
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.sponsor-logos div{
+	height: 3em;
+}
